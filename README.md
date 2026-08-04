@@ -96,7 +96,7 @@ A production-ready data collection, processing, and sentiment analysis pipeline 
 
 ```bash
 git clone https://github.com/A-kunte/market-sentiment-analyzer.git
-cd market-intelligence-assignment
+cd market-sentiment-anaylzer
 ```
 
 ---
