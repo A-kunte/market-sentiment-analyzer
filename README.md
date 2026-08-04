@@ -95,7 +95,7 @@ A production-ready data collection, processing, and sentiment analysis pipeline 
 ## Step 1: Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/A-kunte/market-sentiment-analyzer.git
 cd market-intelligence-assignment
 ```
 
